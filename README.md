@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ztztthaha
 - 👀 I’m interested in Embedded Development and Robotics
 - 🌱 I’m currently learning algorithm & data structure
-- 💞️ I’m looking to collaborate on Robotics with Tencent AI Lab
 - 📫 How to reach me 1120182498@bit.edu.cn
 
 <!---
